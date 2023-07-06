@@ -1,0 +1,46 @@
+Linux basic commands
+ 
+pwd (Print Working Directory)​
+
+Cd​
+
+Cd ..​
+
+ ls​
+
+ls-1​
+
+touch​
+
+file​
+
+cat​
+
+less​
+
+rm –r
+history​
+
+clear​
+
+cp​
+
+mv​
+
+mkdir​
+
+Rm​
+
+grep​
+
+Pwd​
+
+Date​
+
+Tail​
+
+More​
+
+Less​
+
+man​
