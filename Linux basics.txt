@@ -1,0 +1,74 @@
+Linux basic commands
+ 
+pwd (Print Working Directory)​
+Cd​
+Cd ..​
+ls​
+ls-1​
+touch​
+file​
+cat​
+less​
+rm
+rm –r
+history​
+clear​
+cp​
+mv​
+mkdir​
+mkdir -p
+Rm​
+grep​
+Pwd​
+date​
+tail​
+more​
+less​
+man​
+help
+echo
+whatis
+exit
+
+other commands
+stdout
+echo Hello World > <filename>
+stdin
+cat < file1.txt > file2.txt
+stderr
+ls /fake/directory > peanuts.txt
+pipe
+ls -la /etc | less
+ env 
+cut -c 5 sample.txt
+paste -s sample2.txt
+head /var/log/syslog
+expand <filename>
+join 
+sort
+tr
+uniq
+wc 
+nl  
+usermanagement
+su
+visudo
+/etc/passwd
+/etc/shadow
+/etc/group
+user management tools
+1 useradd
+2.userdel
+3.passwd
+file permissions
+1.ls -l
+chown
+chgrp
+umask
+chmod
+add permissions :chmod u+r <filename>
+remove permission:chmod u-r <filename>
+setuid:chmod u+s <filename>
+setgid:chmod g+s <filename>
+stickybit:chmod +t <filename>
+
